@@ -8,6 +8,13 @@ header h1 {
 #lorem {
     border: 10px solid black;
 }
+#informacion{
+    margin: 5px;
+    border: 3 px solid black;
+    background: #028288;
+    color :white;
+    padding: 5px;
+}
 footer p {
     font-weight: bold;
 }
